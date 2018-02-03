@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab1a</string>
+    
+    <string name="a1_t1_hint">Text to hash</string>
+    <string name="a1_b1_text">Hash</string>
+
+    <string-array name="a1_l1_options">
+        <item>SHA256</item>
+        <item>SHA3-256</item>
+        <item>RIPEMD160</item>
+        <item>BLAKE2s-256</item>
+    </string-array>
+    
+    <string name="a2_b2_text">Quit</string>
+
+    <string name="a2_labelPlain">Plain text</string>
+    <string name="a2_labelHash">Hash</string>
+
+    <string name="placehoderText">no data</string>
+</resources>
